@@ -1,0 +1,7 @@
+#Block My5 TV app ads
+0.0.0.0  nqs.nice264.com
+0.0.0.0  mtv.hb.omtrdc.net
+0.0.0.0  jwpltx.com
+0.0.0.0  entitlements.jwplayer.com
+0.0.0.0  ssl.p.jwpcdn.com
+0.0.0.0  pasta.esfile.duapps.com 

@@ -20,5 +20,4 @@
 0.0.0.0  p.videologygroup.com
 0.0.0.0  securecdn.videologygroup.com
 0.0.0.0  tom.itv.com
-0.0.0.0   2a7e9.v.fwmrm.net
 0.0.0.0  2356e.v.fwmrm.net

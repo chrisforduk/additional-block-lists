@@ -12,12 +12,14 @@
 0.0.0.0  ads-pres.channel4.com
 0.0.0.0  cdn.http.anno.channel4.com
 0.0.0.0  cdn.ss.anno.channel4.com
-#Unknown
-0.0.0.0  akamaiedge.net
-0.0.0.0  toots-a.akamaihd.net
-0.0.0.0  akamai.net
-0.0.0.0  c5adds.ott.skymedia.co.uk
+0.0.0.0  2356e.v.fwmrm.net
 0.0.0.0  p.videologygroup.com
 0.0.0.0  securecdn.videologygroup.com
+0.0.0.0  toots-a.akamaihd.net
+0.0.0.0  trk-euwest.tidaltv.com
+0.0.0.0  2a7e9.v.fwmrm.net
+#Unknown
+0.0.0.0  akamaiedge.net
+0.0.0.0  akamai.net
+0.0.0.0  c5adds.ott.skymedia.co.uk
 0.0.0.0  tom.itv.com
-0.0.0.0  2356e.v.fwmrm.net

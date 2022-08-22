@@ -1,6 +1,7 @@
 *.dartsearch.net
 *.googleadservices.com
-ad.doubleclick.net
+*l.doubleclick.net
 www.googletagmanager.com
 www.googletagservices.com
 *ad.doubleclick.net*
+track.seadform.net
